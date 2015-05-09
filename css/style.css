@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box; }
+
+a {
+  text-decoration: none; }
+
+.promo-top {
+  background: #F86941; }
+
+.promo-top p {
+  display: inline-block;
+  color: white;
+  font-family: tahoma;
+  text-shadow: 0.5px 0.5px 0.5px black; }
+
+.free-shipping {
+  border: 1px solid #C55332;
+  border-radius: .5em;
+  padding: 4px 9px;
+  background: #C55332;
+  font-size: .8em;
+  margin: 0;
+  margin-left: 15px; }
+
+.offer {
+  font-size: .9em;
+  padding: 8px 185px 8px 10px;
+  margin-top: 0;
+  margin-bottom: 0; }
